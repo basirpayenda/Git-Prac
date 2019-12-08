@@ -1,6 +1,6 @@
 class Calc:
     def add(self, a, b):
-        pass
+        return a + b
 
     def subtract(self, a, b):
         pass
